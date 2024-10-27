@@ -1,0 +1,56 @@
+{
+  "SerializedFilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Groceries.API.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "Groceries.API",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shwetankverma\\shwetank-verma\\ShwetankVerma_3202931(2)\\Groceries.API\\Groceries.API\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
